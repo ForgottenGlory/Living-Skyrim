@@ -39,9 +39,6 @@ Yes. Re-install CBBE and select one of the NeverNude options and the CBBE RaceMe
 
 Physics is a bit trickier, I am looking into how exactly this should be done but in general, you would need to regenerate BodySlide information without physics and turn off CBP Physics. This may require that the Bashed/Smash Patches be rebuilt, but I haven’t tested yet. If anyone has success in doing these two things, please feel free to let me know.
 
-**Why is FNIS Spells disabled? Can I turn it on?**  
-This causes issues with Classic Classes & Birthsigns and the Alternate Start mod. CC&B doesn’t start until you equip a weapon, and FNIS Spells automatically equips spells, which count as weapons. Really, FNIS Spells is more or less only useful for screenshots, so it’s still included if that’s what you’re interested in, but otherwise, it needs to be left off for CC&B to work properly. If you’re just screenshot hunting and not doing anything else, it can be enabled. It isn’t recommended to use for an actual playthrough. You will need to re-run FNIS if you turn FNIS Spells on.
-
 **How do I use Classic Classes & Birthsigns? Nothing happened during character creation.**  
 CC&B, to work with alternate start mods like Live Another Life, has been modified slightly so that it doesn’t start until you equip a weapon/spell. At that time, you’ll be prompted to give your character a class and pick a birthsign.
 
