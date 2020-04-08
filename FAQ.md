@@ -40,7 +40,7 @@ Yes. Re-install CBBE and select one of the NeverNude options and the CBBE RaceMe
 Physics is a bit trickier, I am looking into how exactly this should be done but in general, you would need to regenerate BodySlide information without physics and turn off CBP Physics. This may require that the Bashed/Smash Patches be rebuilt, but I haven’t tested yet. If anyone has success in doing these two things, please feel free to let me know.
 
 **How do I use Classic Classes & Birthsigns? Nothing happened during character creation.**  
-CC&B, to work with alternate start mods like Live Another Life, has been modified slightly so that it doesn’t start until you equip a weapon/spell. At that time, you’ll be prompted to give your character a class and pick a birthsign.
+CC&B, to work with alternate start mods like Live Another Life, has been modified slightly so that it doesn’t start until you equip a weapon/spell. At that time you’ll be prompted to give your character a class and pick a birthsign.
 
 **My equipment animations are broken/weird!**  
 First, check to make sure you’ve followed the MCM instructions for XPMSE. This should fix any weirdness (sword on hip but being drawn from back, for example.). If you’ve just equipped a new weapon/shield, the animation to draw it may be weird for a few seconds but it will eventually fix itself. XPMSE and AllGUD need a few seconds to register the new weapon configuration and should fix themselves. This is not a bug, just be patient and the mods will figure it out eventually.
