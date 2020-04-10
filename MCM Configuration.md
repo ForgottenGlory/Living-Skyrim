@@ -185,8 +185,8 @@ To play Living Skyrim as I intend, the MCM and Skyrim in-game settings should be
 
 * XPMSE
   - Styles
-    - Sword Style: Sword on Back (both left and right)
-    - Dagger Style: Dagger on Back Hip (both left and right)
-    - Quiver: Frostfall Quiver
+    - Sword Style Player & NPC: Sword on Back (both left and right)
+    - Dagger Style Player & NPC: Dagger on Back Hip (both left and right)
+    - Quiver Player & NPC: Frostfall Quiver
 
 **Save your game after completing MCM setup, I promise you do not want to have to do this process more than once.**
