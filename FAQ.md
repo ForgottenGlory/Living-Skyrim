@@ -59,3 +59,6 @@ Yes, [Gamepad++](https://www.nexusmods.com/skyrimspecialedition/mods/27007) is i
 
 **Can I use this list on an ultrawide monitor?**  
 Yes, [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) is included by default. Just make sure to enable it.
+
+**What the heck is going on with the dialogue menu?**
+It's being modified by [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246/). Check that mod's page for details of how to configure it if it's not to your liking.

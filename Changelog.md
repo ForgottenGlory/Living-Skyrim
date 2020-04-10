@@ -300,3 +300,42 @@
   - Tweaked the level ranges that some enemies spawn at with Enemy Releveler. Some have been buffed, others have been nerfed. The levels of already spawned actors will be unchanged, but newly spawned actors will have the tweaks.
 * **Mod Updates**
   - Updated LOTD to 5.1.
+
+### 4/9/2020 1.6.0
+* **Fixes**
+  - Pre-emptively fixed Luaffyn.
+  - Fixed a floating tree near Dumzbthar.
+* **Balance**
+  - Tweaked enemy level ranges again such that you should continue to find challenging enemies throughout a playthrough to level 60, 70, and beyond. Please let me know if you notice any enemies of significantly higher level than the player, this change may get reverted.
+* **Additions**
+  - Added Glacierslab SE.
+  - Added Better Mammoth Tusks
+  - Added Favorite Things - Extended Favorites Menu for SkyUI.
+  - Added Skyrim Weapons Expansion.
+  - Added Bugfix Compilation.
+  - Added EZ2C Dialogue Menu.
+  - Added Public Executions.
+  - Added Ustengrav Revisited.
+  - Added Bleak Falls Barrow Revisited.
+  - Added Hoth.
+  - Added Riverside Lodge.
+  - Added More Gifts for Children.
+  - Added Hearthfire Multiple Adoptions.
+* **Removals**
+  - Removed Don't Talk With Your Mouth Full.
+  - Removed Dragon Stalking Fix.
+  - Removed 1st Person Candlelight Fix.
+  - Removed Multiple Floors Sandboxing.
+  - Removed Critters Ain't Snitches.
+  - Removed No BS AI Projectile Dodge.
+  - Removed NPCs Run and Walk at Your Pace.
+  - Removed WoodElf - MaleHair - Fix.
+  - All of the above removals are covered by Bugfix Compilation.
+  - Removed Better Dialogue Controls. (provided by EZ2C Dialogue Menu)
+  - Removed SkyUI Flashing Savegames Fix. (provided by Remove QuickSave Button from SkyUI System Menu)
+* **Mod Updates**
+  - Updated BethINI to v3.3 4/9/2020
+  - Updated Interesting NPCs to 4.3.11
+* **Other**
+  - ESL-ified around 25 ESPs.
+  - Regenerated Occlusion.
