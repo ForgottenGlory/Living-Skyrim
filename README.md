@@ -76,7 +76,7 @@ If Wabbajack fails to download a particular mod, it means that the mod has likel
 
 ## Post-Wabbajack Install
 ### Game Folder Files
-Now you have to copy some files to their correct locations. Navigate to C:\Living Skyrim\Game Folder Files. Copy all of these files into <Steam Install Location>\steamapps\common\Skyrim Special Edition\ and Overwrite if prompted.  
+Now you have to copy some files to their correct locations. Navigate to C:\Living Skyrim\Game Folder Files. Copy all of the files inside the Game Folder Files folder into [Steam Install Location]\steamapps\common\Skyrim Special Edition\ and Overwrite if prompted.  
 
 ### Mod Organizer 2
 1. Navigate to C:\Living Skyrim and open ModOrganizer.exe. Your Mod Organizer window will have the Wabbajack theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
