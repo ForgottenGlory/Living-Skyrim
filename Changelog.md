@@ -302,6 +302,7 @@
   - Updated LOTD to 5.1.
 
 ### 4/9/2020 1.6.0
+#### Minor
 * **Fixes**
   - Pre-emptively fixed Luaffyn.
   - Fixed a floating tree near Dumzbthar.
