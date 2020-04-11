@@ -340,3 +340,12 @@
 * **Other**
   - ESL-ified around 25 ESPs.
   - Regenerated Occlusion.
+
+### 4/11/2020 1.6.1
+#### Incremental
+* **Fixes**
+  - Fixed Sustained Magic spell cost reductions.
+* **Mod Updates**
+  - Updated Rustic Windows to v3.0
+  - Updated Merge Plugins Hide to v1.0.1
+  - Updated Interesting NPCs to v4.3.12
