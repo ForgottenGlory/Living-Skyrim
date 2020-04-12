@@ -1,6 +1,44 @@
 # Living Skyrim
 Current version: 4/11/2020 1.6.1
 
+## Table of Contents
+- [Living Skyrim](#living-skyrim)
+	- [Table of Contents](#table-of-contents)
+	- [Preface](#preface)
+		- [Warnings/Disclaimers](#warningsdisclaimers)
+		- [System Specifications](#system-specifications)
+		- [Important Links](#important-links)
+			- [Screenshots](#screenshots)
+	- [Pre-Installation](#pre-installation)
+		- [Skyrim Setup](#skyrim-setup)
+		- [Steam Setup](#steam-setup)
+		- [Launching Skyrim](#launching-skyrim)
+		- [Wabbajack Preparations](#wabbajack-preparations)
+	- [Wabbajack Installation](#wabbajack-installation)
+		- [With Nexus Premium](#with-nexus-premium)
+		- [Without Nexus Premium](#without-nexus-premium)
+	- [Post-Wabbajack Install](#post-wabbajack-install)
+		- [Game Folder Files](#game-folder-files)
+		- [Mod Organizer 2](#mod-organizer-2)
+			- [Configuration-Specific](#configuration-specific)
+		- [ENB](#enb)
+	- [Updating Living Skyrim](#updating-living-skyrim)
+	- [Important Mods You Need to Know About](#important-mods-you-need-to-know-about)
+		- [The Population Mods](#the-population-mods)
+		- [Master of Disguise](#master-of-disguise)
+		- [Sustained Magic](#sustained-magic)
+		- [Archery Gameplay Overhaul](#archery-gameplay-overhaul)
+		- [Classic Classes & Birthsigns](#classic-classes--birthsigns)
+		- [Enemy Releveler & Encounter Zones Unlocked](#enemy-releveler--encounter-zones-unlocked)
+		- [Gamepad++](#gamepad)
+		- [Immersive Spell Learning](#immersive-spell-learning)
+		- [The HUD Mods](#the-hud-mods)
+		- [Nether's Follower Framework](#nethers-follower-framework)
+	- [Launching Living Skyrim](#launching-living-skyrim)
+		- [The MCM Settings](#the-mcm-settings)
+		- [Final Thoughts & Best Practices](#final-thoughts--best-practices)
+	- [Credits & Thanks](#credits--thanks)
+
 ## Preface
 The Living Skyrim Modlist focuses heavily on adding highly interactive content. New questlines and world spaces are given high priority as well as mods that add NPCs, followers, and things to do. Some prominent examples are Interesting NPCs, Immersive Creatures, Legacy of the Dragonborn V5, VIGILANT, Falskaar, Animallica, and more. The core idea of Living Skyrim is to make the world feel full of life and activity in almost every area, whether it's a bandit patrol from OBIS or a conversation overheard between NPCs provided by Realistic Conversations. It is designed as a complete overhaul and expansion to many of the systems present in the game. It is aimed at providing a lore-friendly experience that enhances the core game rather than adding tedium and monotony to the game. Some mods are avoided intentionally so that unnecessary systems that slow down the game aren't included. The few inclusions that do slow things down are included for balance and pacing reasons.  
 
@@ -21,15 +59,6 @@ As of v1.5.0, the modlist requires ~125GB (41GB Downloads/84GB Mods) of hard dri
 
 Support is **not** provided for adding to, changing, or removing mods from the modlist. If you’re uncertain of how to use xEdit at a minimum, making any changes at all is a great way to have a **Bad Time™**.
 
-### Links
-[The Modlist Spreadsheet](https://docs.google.com/spreadsheets/d/1sKG690CbutxCFhDLfTH7C6yYCz0dOkZkuKfYAqRBRVU/edit?usp=sharing)  
-[Living Skyrim FAQ](FAQ.md)  
-[Living Skyrim Bug & Suggestions Tracker](https://github.com/ForgottenGlory/Living-Skyrim/issues)  
-[User Testimonials](https://drive.google.com/open?id=1eXeG852teL9EOnIHTAFTLW4Rq1c_pYGRYPtW_eNJqLg)  
-[Living Skyrim Discord](https://discord.gg/9dFvGnc)
-
-Screenshots: [One](https://i.imgur.com/WLHS8PZ.png) [Two](https://i.imgur.com/VZ5R16D.jpg) [Three](https://i.imgur.com/ihT68Xq.jpg) [Four](https://i.imgur.com/TjpnNsA.jpg) [Five](https://i.imgur.com/v4wlwzJ.jpg) [Six](https://i.imgur.com/EOYFd4E.jpg) [Seven](https://media.discordapp.net/attachments/657015801215189017/678464602731708416/ScreenShot12.png?width=1284&height=723) [Eight](https://media.discordapp.net/attachments/657015801215189017/680242683746451475/ScreenShot27.png?width=1284&height=723) [Nine](https://media.discordapp.net/attachments/657015801215189017/680242702163509268/ScreenShot23.png?width=1284&height=723) [Ten](https://media.discordapp.net/attachments/657015801215189017/680242707846922252/ScreenShot25.png?width=1284&height=723) [Eleven](https://media.discordapp.net/attachments/657015801215189017/678464594762530837/ScreenShot15.png?width=1284&height=723)
-
 ### System Specifications
 My computer is not the most powerful, but it can run this modlist at a consistent 60 FPS using the High preset. My specs are as follows. Please use this as a guideline to see if you are able to run this modlist. Anything better than what’s listed here should have no issues, anything worse may need to use the Medium or Low presets in the Skyrim graphics settings or go without ENB/use Re-shade instead. **Support is not provided for Re-shade.**  
 
@@ -40,37 +69,54 @@ My computer is not the most powerful, but it can run this modlist at a consisten
 
 Skyrim is very heavy on processors. Generally, anything above 3GHz should be fine but I can’t guarantee it. I would also recommend at least 8GB of RAM and 6GB of VRAM before considering installing this modlist. During my testing, this list averaged 3.2GB of RAM usage (9.2GB max) and 5.5GB of VRAM usage (7.9GB max).  
 
+### Important Links
+[The Modlist Spreadsheet](https://docs.google.com/spreadsheets/d/1sKG690CbutxCFhDLfTH7C6yYCz0dOkZkuKfYAqRBRVU/edit?usp=sharing)  
+[Living Skyrim FAQ](FAQ.md)  
+[Living Skyrim Bug & Suggestions Tracker](https://github.com/ForgottenGlory/Living-Skyrim/issues)  
+[User Testimonials](https://drive.google.com/open?id=1eXeG852teL9EOnIHTAFTLW4Rq1c_pYGRYPtW_eNJqLg)  
+[Living Skyrim Discord](https://discord.gg/9dFvGnc)
+
+#### Screenshots
+[One](https://i.imgur.com/WLHS8PZ.png) [Two](https://i.imgur.com/VZ5R16D.jpg) [Three](https://i.imgur.com/ihT68Xq.jpg) [Four](https://i.imgur.com/TjpnNsA.jpg) [Five](https://i.imgur.com/v4wlwzJ.jpg) [Six](https://i.imgur.com/EOYFd4E.jpg) [Seven](https://media.discordapp.net/attachments/657015801215189017/678464602731708416/ScreenShot12.png?width=1284&height=723) [Eight](https://media.discordapp.net/attachments/657015801215189017/680242683746451475/ScreenShot27.png?width=1284&height=723) [Nine](https://media.discordapp.net/attachments/657015801215189017/680242702163509268/ScreenShot23.png?width=1284&height=723) [Ten](https://media.discordapp.net/attachments/657015801215189017/680242707846922252/ScreenShot25.png?width=1284&height=723) [Eleven](https://media.discordapp.net/attachments/657015801215189017/678464594762530837/ScreenShot15.png?width=1284&height=723)
+
+## Pre-Installation
 ### Skyrim Setup
 As with any modlist, it is strongly recommended that you start with a clean, unmodified installation of Skyrim: Special Edition. To get your Skyrim SE to this state, follow these steps:
 
 1. In Steam, uninstall Skyrim: Special Edition (Right-click > Manage > Uninstall). 
 2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Properties… > Local Files > Browse Local Files…), delete them.
 3. Install Skyrim: Special Edition.
-4. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
-5. Launch Skyrim SE to create any INI or registry entries the game needs. Immediately exit after the launcher has successfully selected a graphics preset for your hardware. The INIs will be overwritten by the ones included in the Wabbajack installer.
 
-## Installation
+### Steam Setup
+1. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
+2. In Steam, disable the Steam Overlay. (Right-click > Properties... > General > Enable the Steam Overlay while in-game checkbox)
+   
+### Launching Skyrim
+Launch Skyrim SE to create any INI or registry entries the game needs. Immediately exit after the launcher has successfully selected a graphics preset for your hardware. The INIs will be overwritten by the ones included in the Wabbajack installer.
 
-1. Download the latest [Wabbajack Installer](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so.
+### Wabbajack Preparations
+1. Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. **Important!:** Wabbajack must be placed in a separate folder from where the installation will occur. 
 3. Create a second folder called C:\Living Skyrim. This folder is where everything will be installed. 
-4. Ensure that C:\Living Skyrim is **completely empty.**
-5. Ensure that Wabbajack.exe and the .wabbajack file are in C:\Wabbajack.
+4.  Ensure that C:\Living Skyrim is **completely empty.**
+5.  Ensure that Wabbajack.exe is in C:\Wabbajack.
 
-### Wabbajack Installation
+## Wabbajack Installation
+If you are updating your existing installation of Living Skyrim, skip to [Updating Living Skyrim](#updating-living-skyrim).
+
 1. Run Wabbajack.exe. At the bottom of the window, click Browse Modlists. Select Living Skyrim from the UI and download it.
 2. Once downloaded, click the play button in the Living Skyrim panel to begin.
 3. Set the Installation Location to C:\Living Skyrim. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in.
 4. Click Run.
 
-#### With Nexus Premium
+### With Nexus Premium
 5. Wabbajack will walk you through logging into the Nexus and authorizing an API key so it can download mods if you have not done so previously.
 6. Let Wabbajack do its thing. This will take a little while (usually 2-3 hours at most), so go get a snack and read a book for a bit. If you have good enough internet, YouTube is also your friend here.
 
-#### Without Nexus Premium
+### Without Nexus Premium
 5. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time, possibly more than one day. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Put on some music or a TV show and make a day of it.
 
-Once complete, Wabbajack will say “Installation complete! You may exit the program.” If it does not, visit the Wabbajack Discord server for assistance. **Don’t forget to upload your log file!**  
+Once complete, Wabbajack will say “Installation complete! You may exit the program.” If it does not, visit the [Wabbajack Discord server](https://discord.gg/wabbajack) for assistance. **Don’t forget to upload your log file!**  
 
 If Wabbajack fails to download a particular mod, it means that the mod has likely been updated. This also means that an update to Living Skyrim is imminent. Be patient and wait for the new release. **Do not ask other people to share older files as this is a violation of the Nexus ToS.**  
 
@@ -98,7 +144,51 @@ ENB is not required to run Living Skyrim, but it is intended to be used with Sky
 
 **If you have issues using Re-Engaged ENB with Predator Vision, check the [FAQ](https://github.com/ForgottenGlory/Living-Skyrim/blob/master/FAQ.md) for more details on how to fix this.**
 
-### Launching the Game
+## Updating Living Skyrim
+If you are updating Living Skyrim, the process is very simple. Before you update, you should at a minimum backup your saves. Updating will delete any saves that are present.
+
+1. Run Wabbajack.exe. At the bottom of the window, click Browse Modlists. Select Living Skyrim from the UI and download it.
+2. Once downloaded, click the play/arrow button in the Living Skyrim panel to begin.
+3. Set the Installation Location to wherever you already have Living Skyrim installed. **Important!:** Set your downloads folder path to the same downloads folder location you used when you first installed Living Skyrim.
+4. Click Run.
+5. When prompted if you would like to overwrite the existing installation, click "Confirm."
+
+## Important Mods You Need to Know About
+This section details the most asked about mods included in Living Skyrim and is intended to give you a basic understanding of what to expect when you start the game.
+
+### The Population Mods
+Living Skyrim includes a number of mods that increase the population of both creatures and characters in the world. The first and most important one is [Populated Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/5017). This mod adds well over 100 new NPCs to locations throughout the world: cities, dungeons, caves, etc. Next is [OBIS](https://www.nexusmods.com/skyrimspecialedition/mods/4145), which adds a ton of mid to high-level bandits to the world. Also for your consideration: [Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330), [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718), and [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194). For creatures, you'll find [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104), [Skyrim Immersive Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/12680), and [Animallica](https://www.nexusmods.com/skyrimspecialedition/mods/20456).
+
+What does this mean? Well, to put it simply, there are *a lot* of NPCs to find and interact with now. Silent Moons Camp for example now has somewhere in the range of *40, yes, forty* enemies to fight. It is impossible to go more than 5 minutes without coming across an NPC of some kind be it bandits, a patrol, or an animal. Getting a follower or two (or five) is highly encouraged. This also means you will come across enemies that are significantly higher level than you when starting out. Embershard Mine can be about 50% cleared at level 3-5 before encountering *level 30* enemies. You will have to revisit dungeons once you are stronger. The [Take Notes](https://www.nexusmods.com/skyrimspecialedition/mods/13570) mod is included to chronicle your adventure and also to help you remember what places you need to revisit.
+
+### Master of Disguise
+[Master of Disguise](https://www.nexusmods.com/skyrimspecialedition/mods/9959) is a very simple mod: If you dress like a faction, you will be treated as that faction. So, if you dress as a necromancer, you will be attacked as if you are a necromancer by guards, soldiers, townsfolk, and so on. Be careful what you wear!
+
+### Sustained Magic
+[Sustained Magic](https://www.nexusmods.com/skyrimspecialedition/mods/15871) is another simple mod, with much larger gameplay consequences. Certain spells, such as Oakflesh, now last forever instead of having to recast them every 60-90 seconds. This does come at the cost of reducing your maximum available Magicka, so be careful how many spells you have sustained or you'll very quickly find yourself with near zero Magicka to use for spells like Flames. To dispel the effects of a Sustained Magic spell (and therefore recoup your Magicka), either cast the spell again or cast the Dispel Magic, Personal spell.
+
+### Archery Gameplay Overhaul
+[Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296) completely revamps the archery system in Skyrim. You'll find it now has much more realistic gameplay including arm fatigue, the ability to spread poisons across multiple arrows, stamina drain while the bowstring is pulled, and so on. This mod is highly configurable via its MCM menu, so feel free to tweak it to suit your playstyle.
+
+### Classic Classes & Birthsigns
+[Classic Classes & Birthsigns](https://www.nexusmods.com/skyrimspecialedition/mods/11316) changes the way your character specializes and starts the beginning of the game. When you first equip a weapon or spell, you'll be prompted to select (or create) a class and birthsign (standing stone). This choice is *permanent* and cannot be changed once selected. You can still change your standing stone by visiting the appropriate stone, but the class choices are irreversible. Choose wisely!
+
+### Enemy Releveler & Encounter Zones Unlocked
+[Enemy Releveler](https://www.nexusmods.com/skyrimspecialedition/mods/32211) is a mod that on the surface seems very simple, but has a *huge* impact on the longevity of Skyrim. You'll now find enemies around your level to levels 50, 60, 70, and beyond. Alduin is capped at level 140, for example. [Encounter Zones Unlocked](https://www.nexusmods.com/skyrimspecialedition/mods/19608) dynamically adjusts the levels of enemies for dungeons you've already visited unless the level of the enemy is pre-set by a mod that adds said enemy. This means that, for the most part, when you revisit a dungeon, the level of the enemies will be updated to approximately match yours. This also means that you'll have challenging fights no matter what level you are (no more one-shotting draugr all the time!).
+
+### Gamepad++
+[Gamepad++](https://www.nexusmods.com/skyrimspecialedition/mods/27007) is a mod specific to users who will be playing the game with a controller. Gamepad++ remaps a lot of the controller buttons to a new configuration and greatly expands the amount of actions you can perform with your controller. I highly recommend reading the mod description for this if you are going to be playing with a controller. Also be aware that by using Gamepad++, your keyboard with be completely useless while plying the game. Thankfully, Gamepad++ allows for over 100 custom shortcuts to be set by you, so anything you'd want to do on your keyboard can now be done on your controller.
+
+### Immersive Spell Learning
+[Immersive Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/33375) completely changes how your character learns new spells. Instead of "eating" the book and learning the spell, you now have to spend time studying notes about the spell to learn it over time. The amount of time it takes to learn new spells is completely configurable through this mod's MCM menu, so feel free to tweak it to your liking. This mod's inclusion is intended to help balance magic as the combination of magic mods included in Living Skyrim make magic *significantly* stronger.
+
+### The HUD Mods
+Living Skyrim includes a completely different UI and HUD experience than what you're used to, probably even if you've played modded Skyrim before. [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463) is 100% customizable and has a number of presets available you can choose from to relocate the health/stamina/magicka bars and also relocate any HUD element, such as the stealth indicator. [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246) changes the dialogue menu to be easier to read and use and is also 100% configurable. See the mod description pages for EZ2C and SkyHUD to see how to configure these to your liking. [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440) keeps pesky HUD elements out of the way when you don't need to see them. Lastly, [Favorite Things](https://www.nexusmods.com/skyrimspecialedition/mods/27177) greatly expands the SkyUI Favorites menu to make it larger, easier to use, and more customizable. 
+
+### Nether's Follower Framework
+[Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076) has too many features to list, but what you need to know is this: You can have multiple followers, you can configure just about anything about them, and you'll have a lot more flexibility with controlling your followers. You can also import followers added by mods to be able to use NFF's features on them. **Important!:** *Do NOT* import standalone followers (Inigo, Lucien, etc.) into Nether's Follower Framework. It will 100% break them. The notable exceptions to this are Auri, Sophia, and any of the Interesting NPCs followers.
+
+## Launching Living Skyrim
 The hard part is now over. Carry on, the end is in sight!
 
 1. In Mod Organizer 2, select SKSE from the drop-down menu next to the Run button and click Run. This is how Living Skyrim should always be launched. You can create a shortcut on your desktop if you wish using the Shortcut button under the Run button.
@@ -114,7 +204,7 @@ The hard part is now over. Carry on, the end is in sight!
 
 ### Final Thoughts & Best Practices
 - If you are not familiar with the contents of this modlist, links are provided in the [LS Spreadsheet](https://drive.google.com/open?id=1sKG690CbutxCFhDLfTH7C6yYCz0dOkZkuKfYAqRBRVU) to every mod so you can review their content/changes.
-- Autosaves and Quicksaves are disabled. These save options are known to cause issues with heavily scripted games. Enable these at your own risk. Quicksaves are automatically turned into Manual Saves. It is recommended to save **early** and **often**. Every 15 minutes and before interacting with quest NPCs, quest objects, and entering new zones should be sufficient. **Old saves can be deleted, but forgetting to save loses progress forever!**
+- Autosaves and Quicksaves are disabled. These save options are known to cause issues with heavily scripted games.Quicksaves are automatically turned into Manual Saves. It is recommended to save **early** and **often**. Every 15 minutes and before interacting with quest NPCs, quest objects, and entering new zones should be sufficient. **Old saves can be deleted, but forgetting to save loses progress forever!**
 - Wabbajack supports updating/upgrading over an existing installation, but it will automatically delete any files that aren’t used for the modlist installation. This means if you have changed the modlist in any way, Wabbajack will delete those changes and **may even delete your saves.** Keep backups of any changes you do make (as ill-advised as making changes may be).
 - **NEVER** save right after a loading screen. Wait 30 seconds before saving to let scripts finish executing.
 - **NEVER** use autosaves. Autosaves are unpredictable at best, and save-corrupting at worst.
