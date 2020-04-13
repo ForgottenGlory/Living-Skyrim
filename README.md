@@ -37,6 +37,7 @@ Current version: 4/11/2020 1.6.1
 	- [Launching Living Skyrim](#launching-living-skyrim)
 		- [The MCM Settings](#the-mcm-settings)
 		- [Final Thoughts & Best Practices](#final-thoughts--best-practices)
+			- [Getting Started in Living Skyrim](#getting-started-in-living-skyrim)
 	- [Credits & Thanks](#credits--thanks)
 
 ## Preface
@@ -53,7 +54,7 @@ Lastly, Living Skyrim exists solely as a Wabbajack installer. A manual installat
 ### Warnings/Disclaimers
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a thousand clicks or so).  
 
-As of v1.5.0, the modlist requires ~125GB (41GB Downloads/84GB Mods) of hard drive space on top of the ~10GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a couple of hours.
+As of v1.6.0, the modlist requires ~125GB (41GB Downloads/84GB Mods) of hard drive space on top of the ~10GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a couple of hours.
 
 **NSFW Warning:** By default this modlist contains nude models for female NPCs. See the FAQ for more information about changing the list to NeverNude if that interests you.  
 
@@ -209,6 +210,16 @@ The hard part is now over. Carry on, the end is in sight!
 - Wabbajack supports updating/upgrading over an existing installation, but it will automatically delete any files that aren’t used for the modlist installation. This means if you have changed the modlist in any way, Wabbajack will delete those changes and **may even delete your saves.** Keep backups of any changes you do make (as ill-advised as making changes may be).
 - **NEVER** save right after a loading screen. Wait 30 seconds before saving to let scripts finish executing.
 - **NEVER** use autosaves. Autosaves are unpredictable at best, and save-corrupting at worst.
+
+#### Getting Started in Living Skyrim
+In general, Living Skyrim is a bit more unforgiving to new characters than usual. You can't expect to wade into a group of 10 enemies and walk out alive. Here are some tips to get started on your adventure:
+
+- Up north (Solitude/Windhelm) is definitely more dangerous, Whiterun/Riverwood area is your best bet for low-level. Just avoid the fort and Silent Moons Camp. The first part of Embershard Mine should be fine.
+- Bleak Falls Barrow requires level 12-15 to start, Saarthal is around level 10, the Thieves' Guild should be doable from the beginning, the Companions first quest is doable from the beginning, the Falmer cave is level 20 or so though. Civil War quests should be doable from the beginning since you have backup. Most small bandit caves should be doable from the beginning. Dark Brotherhood should be doable from the beginning if you're careful about it.
+- Don't be afraid to only partially clear dungeons, grab a couple followers, do Missives, try to stay in the overworld (don't go into caves, etc.). The overworld enemies tend to be easier.
+- There's a loading screen tip I'm fond of that says something along the lines of "Strong enemies care not if you're just starting out, they'll kill you all the same." Don't be afraid to run away.
+- In general, all you need to stay alive in Living Skyrim is this: Don't blindly rush into groups of enemies and do a bit of planning before you head into a dungeon. Cast armor spells, drink buff potions, enchant your weapons, etc.
+- For some easy XP that isn't dangerous to get right at the beginning, head to Helgen.
 
 ## Credits & Thanks
 - Living Skyrim created by ForgottenGlory
