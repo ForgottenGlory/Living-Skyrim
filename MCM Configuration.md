@@ -87,6 +87,10 @@ To play Living Skyrim as I intend, the MCM and Skyrim in-game settings should be
   - Hotkeys 
     - Configure these how you want. I use Horse Menu H and Herd Menu N.
 
+* Immersive HUD
+  - Options
+    - Hide Shout Meter With Compass: Enabled
+
 * iNeed 
   - Basics 
     - Hunger/Thirst/Fatigue Rate: 3
