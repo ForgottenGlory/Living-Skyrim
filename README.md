@@ -219,6 +219,7 @@ In general, Living Skyrim is a bit more unforgiving to new characters than usual
 - Don't be afraid to only partially clear dungeons, grab a couple followers, do Missives, try to stay in the overworld (don't go into caves, etc.). The overworld enemies tend to be easier.
 - There's a loading screen tip I'm fond of that says something along the lines of "Strong enemies care not if you're just starting out, they'll kill you all the same." Don't be afraid to run away.
 - In general, all you need to stay alive in Living Skyrim is this: Don't blindly rush into groups of enemies and do a bit of planning before you head into a dungeon. Cast armor spells, drink buff potions, enchant your weapons, etc.
+- Try to seek out some of the Forgotten Dungeons, they tend to be a bit more sparse on enemies with combats spaced out more than a typical dungeon and have some decent loot.
 - For some easy XP that isn't dangerous to get right at the beginning, head to Helgen.
 
 ## Credits & Thanks
