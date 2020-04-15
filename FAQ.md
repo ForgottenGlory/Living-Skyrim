@@ -62,3 +62,6 @@ Yes, [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mo
 
 **What the heck is going on with the dialogue menu?**
 It's being modified by [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246/). Check that mod's page for details of how to configure it if it's not to your liking.
+
+**Immersive Spell Learning allows me to still read the spell tome to learn spells instantly!**
+Yes, this is a known issue and is somewhat intended. Legacy of the Dragonborn's museum counts spell tomes towards its display count, so rather than have players find/buy two copies of a spell tome (one to learn from and the other to store in the museum), I've opted to allow spell tomes to stay in your inventory. If you don't like having the temptation of "cheating" and don't mind having to hunt down a second copy of the book, you can always enable "Destroy Spell Tomes" in the Immersive Spell Learning MCM.
