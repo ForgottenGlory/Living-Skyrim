@@ -75,7 +75,7 @@ Skyrim is very heavy on processors. Generally, anything above 3GHz should be fin
 [Living Skyrim FAQ](FAQ.md)  
 [Living Skyrim Bug & Suggestions Tracker](https://github.com/ForgottenGlory/Living-Skyrim/issues)  
 [User Testimonials](https://drive.google.com/open?id=1eXeG852teL9EOnIHTAFTLW4Rq1c_pYGRYPtW_eNJqLg)  
-[Living Skyrim Discord](https://discord.gg/9dFvGnc)
+[Living Skyrim Discord](https://discord.gg/9dFvGnc)  
 [Living Skyrim Patreon](https://www.patreon.com/LivingSkyrim)
 
 #### Screenshots
