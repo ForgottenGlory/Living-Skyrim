@@ -1,5 +1,5 @@
 # Living Skyrim
-Current version: 4/11/2020 1.6.1
+Current version: 4/16/2020 1.6.2
 
 ## Table of Contents
 - [Living Skyrim](#living-skyrim)
