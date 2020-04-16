@@ -349,3 +349,18 @@
   - Updated Rustic Windows to v3.0
   - Updated Merge Plugins Hide to v1.0.1
   - Updated Interesting NPCs to v4.3.12
+
+### 4/16/2020 1.6.2
+* **Fixes**
+  - It wouldn't be a Living Skyrim update if I didn't have to fix Luaffyn.
+  - Fixed Legate Quetin Cipius BFB.
+  - Fixed some floating flora near Blind Cliff Cave.
+  - Fixed some floating flora near Lakeview Manor.
+  - Fixed some object misplacement in Frost Peak Cave.
+  - Fixed missing water near Lost Knife Hideout.
+  - Fixed missing water near Hillgrund's Tomb.
+* **Additions**
+  - Added GAR + LOTD patch.
+  - Added Clockwork + LOTD patch.
+* **Other**
+  - Tweaked some INI settings.
