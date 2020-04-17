@@ -364,3 +364,7 @@
   - Added Clockwork + LOTD patch.
 * **Other**
   - Tweaked some INI settings.
+
+### 4/17/2020 1.6.3
+* **Fixes**
+  - Fixed black (aka inverted color) sky/clouds issue.
