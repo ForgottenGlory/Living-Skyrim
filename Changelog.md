@@ -351,6 +351,7 @@
   - Updated Interesting NPCs to v4.3.12
 
 ### 4/16/2020 1.6.2
+#### Incremental
 * **Fixes**
   - It wouldn't be a Living Skyrim update if I didn't have to fix Luaffyn.
   - Fixed Legate Quetin Cipius BFB.
@@ -366,5 +367,15 @@
   - Tweaked some INI settings.
 
 ### 4/17/2020 1.6.3
+#### Incremental
 * **Fixes**
   - Fixed black (aka inverted color) sky/clouds issue.
+
+### 4/20/2020 1.6.4
+#### Incremental
+* **Fixes**
+  - Fixed some more black/inverted skies.
+* **Mod Updates**
+  - Updated Forgotten Dungeons to v11.01.
+* **Other**
+  - Tweaked some more INI settings in an effort to help mitigate some reported issues.
