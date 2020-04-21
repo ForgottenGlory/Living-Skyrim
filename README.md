@@ -9,6 +9,7 @@ Current version: 4/17/2020 1.6.3
 		- [System Specifications](#system-specifications)
 		- [Important Links](#important-links)
 			- [Screenshots](#screenshots)
+			- [Videos](#videos)
 	- [Pre-Installation](#pre-installation)
 		- [Skyrim Setup](#skyrim-setup)
 		- [Steam Setup](#steam-setup)
@@ -80,6 +81,9 @@ Skyrim is very heavy on processors. Generally, anything above 3GHz should be fin
 
 #### Screenshots
 [One](https://i.imgur.com/WLHS8PZ.png) [Two](https://i.imgur.com/VZ5R16D.jpg) [Three](https://i.imgur.com/ihT68Xq.jpg) [Four](https://i.imgur.com/TjpnNsA.jpg) [Five](https://i.imgur.com/v4wlwzJ.jpg) [Six](https://i.imgur.com/EOYFd4E.jpg) [Seven](https://media.discordapp.net/attachments/657015801215189017/678464602731708416/ScreenShot12.png?width=1284&height=723) [Eight](https://media.discordapp.net/attachments/657015801215189017/680242683746451475/ScreenShot27.png?width=1284&height=723) [Nine](https://media.discordapp.net/attachments/657015801215189017/680242702163509268/ScreenShot23.png?width=1284&height=723) [Ten](https://media.discordapp.net/attachments/657015801215189017/680242707846922252/ScreenShot25.png?width=1284&height=723) [Eleven](https://media.discordapp.net/attachments/657015801215189017/678464594762530837/ScreenShot15.png?width=1284&height=723)
+
+#### Videos
+[Leora Allavi (full roleplay playlist)](https://www.youtube.com/watch?v=J2z0dHdK7GM&list=PL-faYc4gzQfCvfu0EBCDK_WmOrhGcVeYs) 
 
 ## Pre-Installation
 ### Skyrim Setup
