@@ -379,3 +379,8 @@
   - Updated Forgotten Dungeons to v11.01.
 * **Other**
   - Tweaked some more INI settings in an effort to help mitigate some reported issues.
+
+### 4/20/2020 1.6.5
+#### Incremental
+* **Fixes**
+  - (Probably, 99% certain) Fixed the exterior lighting issues.
