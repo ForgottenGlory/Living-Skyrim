@@ -396,3 +396,8 @@
   - Updated Forgotten Dungeons to v11.03.
 * **Other**
   - Rolled back INI settings to v1.4.0 settings to combat shadows disappearing.
+
+### 4/22/2020 1.6.7
+#### Incremental
+* **Fixes**
+  - Shadow issues should now be resolved for everyone.
