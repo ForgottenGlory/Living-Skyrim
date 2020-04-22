@@ -384,3 +384,15 @@
 #### Incremental
 * **Fixes**
   - (Probably, 99% certain) Fixed the exterior lighting issues.
+
+### 4/22/2020 1.6.6
+#### Incremental
+* **Fixes**
+  - Fixed missing SWE AllGUD meshes.
+* **Additions**
+  - Added Apophysis - ICH patch.
+* **Updates**
+  - Updated LOTD Patches to v1.9.
+  - Updated Forgotten Dungeons to v11.03.
+* **Other**
+  - Rolled back INI settings to v1.4.0 settings to combat shadows disappearing.
