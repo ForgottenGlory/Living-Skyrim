@@ -401,3 +401,8 @@
 #### Incremental
 * **Fixes**
   - Shadow issues should now be resolved for everyone.
+
+### 4/26/2020 1.6.8
+#### Incremental
+* **Mod Updates**
+  - Updated USSEP to v4.2.3
