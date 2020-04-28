@@ -406,3 +406,9 @@
 #### Incremental
 * **Mod Updates**
   - Updated USSEP to v4.2.3
+
+### 4/27/2020 1.6.9
+#### Incremental
+* **Mod Updates**
+  - Updated AI Overhaul to v1.5.2
+  - Updated xLODGen to v62
