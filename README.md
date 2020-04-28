@@ -1,5 +1,5 @@
 # Living Skyrim
-Current version: 4/26/2020 1.6.8
+Current version: 4/27/2020 1.6.9
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -228,22 +228,22 @@ In general, Living Skyrim is a bit more unforgiving to new characters than usual
 ## Credits & Thanks
 - Living Skyrim created by ForgottenGlory
 - Contributors & Beta Testers:
-	- Patchier
-	- DwarfDude
-	- Qwerrecd
-	- Timboman
-	- NexxusDrako
-	- Total
-	- Dispo
-	- Dracosaber
-	- Sentrus
-	- Nechrion
+  - Patchier
+  - DwarfDude
+  - Qwerrecd
+  - Timboman
+  - NexxusDrako
+  - Total
+  - Dispo
+  - Dracosaber
+  - Sentrus
+  - Nechrion
 - Halgari & The Wabbajack Team
-	- Thank you for creating Wabbajack, you’re amazing!
-	- [Halgari’s Patreon](https://www.patreon.com/user?u=11907933)
+  - Thank you for creating Wabbajack, you’re amazing!
+  - [Halgari’s Patreon](https://www.patreon.com/user?u=11907933)
 - Special Thanks
-	- The TUCO Modding Team - Their modlist is a great way to get a Vanilla+ experience with a tutorial that is extremely helpful for learning the basics of creating a modlist.
-	- DarkLadyLexy - Her LotD list is an invaluable resource not only for an awesome modlist, but also for learning many fundamentals of modding and compiling a modlist.
-	- EzioTheDeadPoet - For their SME(FT) modlist. The ability to start from scratch on a whim while building this list has been invaluable.
+  - The TUCO Modding Team - Their modlist is a great way to get a Vanilla+ experience with a tutorial that is extremely helpful for learning the basics of creating a modlist.
+  - DarkLadyLexy - Her LotD list is an invaluable resource not only for an awesome modlist, but also for learning many fundamentals of modding and compiling a modlist.
+  - EzioTheDeadPoet - For their SME(FT) modlist. The ability to start from scratch on a whim while building this list has been invaluable.
 - Mod Authors
-	- None of this would be possible without the people who make the quality content we’ve grown to know and love. Please endorse the authors’ works.
+  - None of this would be possible without the people who make the quality content we’ve grown to know and love. Please endorse the authors’ works.
