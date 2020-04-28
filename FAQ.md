@@ -35,9 +35,7 @@ Unlikely. Fighting everything isn’t an option in this list, OBIS, Populated Sk
 Absolutely.
 
 **Can this list be made NeverNude/without physics?**  
-Yes. Re-install CBBE and select one of the NeverNude options and the CBBE RaceMenu Morphs. You will also need to regenerate the BodySlide files using the NeverNude body. Bijin NPCs will still be nude, but it is extremely unlikely that it will be visible unless you strip them on purpose or they die and are stripped, which is also extremely unlikely. You can replace the Bijin mods with the NeverNude CBBE version of the Bijin mods if you’re concerned about this possibility.
-
-Physics is a bit trickier, I am looking into how exactly this should be done but in general, you would need to regenerate BodySlide information without physics and turn off CBP Physics. This may require that the Bashed/Smash Patches be rebuilt, but I haven’t tested yet. If anyone has success in doing these two things, please feel free to let me know.
+Yes, but no support is provided for this. You need to know what you're doing to proceed with making this change.
 
 **How do I use Classic Classes & Birthsigns? Nothing happened during character creation.**  
 CC&B, to work with alternate start mods like Live Another Life, has been modified slightly so that it doesn’t start until you equip a weapon/spell. At that time you’ll be prompted to give your character a class and pick a birthsign.
