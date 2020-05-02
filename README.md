@@ -143,7 +143,7 @@ ENB is not required to run Living Skyrim, but it is intended to be used with Sky
 1. Download the latest ENB Binary from http://enbdev.com/download_mod_tesskyrimse.htm
 2. Open the .zip file, go into the WrapperVersion folder, and copy ONLY d3d11.dll and d3dcompiler_46e.dll into your Skyrim SE installation folder. (Usually located at C:\Steam\steamapps\common\Skyrim Special Edition)
 3. Go to [SkyrimSE Re-Engaged ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1089) and download file A. Re-Engaged ENB for Obsidian (ENB Weather Supported) V8.6a. 
-4. Open the .zip file, go into the A. Re-Engaged ENB for Obsidian V8.5a folder, then the Main File (Install Folder). Ultimately which version you choose to use is up to you, but the Ultimate Edition version is recommended. Go into your chosen folder, and copy all of those files into your Skyrim SE installation folder.
+4. Open the .zip file, go into the A. Re-Engaged ENB for Obsidian V8.6a folder, then the Main File (Install Folder). Ultimately which version you choose to use is up to you, but the Ultimate Edition version is recommended. Go into your chosen folder, and copy all of those files into your Skyrim SE installation folder.
 5. (Optional) Then, go to the 2. Optional DOF Strengths folder and select your favorite. I prefer the Soft DOF. Go into your chosen folder and copy all of the files within into your Skyrim SE installation folder. Overwrite files when prompted.
 6. Additional information and details can be found in the Re-Engaged ENB description if needed.
 
