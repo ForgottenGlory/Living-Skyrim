@@ -412,3 +412,8 @@
 * **Mod Updates**
   - Updated AI Overhaul to v1.5.2
   - Updated xLODGen to v62
+
+### 5/3/2020 1.6.10
+#### Incremental
+* **Mod Updates**
+  - Updated Wrye Bash to version 307 6.1.
