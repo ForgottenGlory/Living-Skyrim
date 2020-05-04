@@ -12,7 +12,7 @@ To play Living Skyrim as I intend, the MCM and Skyrim in-game settings should be
     - Preset: Show As List
     - Set all Transparency options to 70%
 
-* AGO
+* Archery Gameplay Overhaul (AGO)
   - Settings
     - Persistent Arrows: Disabled
 
@@ -48,6 +48,14 @@ To play Living Skyrim as I intend, the MCM and Skyrim in-game settings should be
     - Shor’s Stone: Enabled
     - Soljund’s Sinkhole: Enabled
     - Whistling Mine: Enabled
+    
+ * Follower Framework
+  - Activity
+    - Sandboxing
+      - Only Sandbox in Towns: Enabled
+    - Mounts
+      - Mount Support: Riding Support Only
+  - **Important!: DO NOT import Lucien or Inigo into NFF. It will completely break them. Sofia, Auri, and 3DNPCs will automatically import a short time after meeting them and asking them to follow you.**
 
 * Gamepad++  
 **Important!: Gamepad++ only needs to be enabled in MO2 if you are going to be playing the game using a controller. Otherwise, you should disable it in the left pane of MO2. You will not be able to move using mouse/keyboard unless you disable Gamepad++.**
@@ -135,14 +143,6 @@ To play Living Skyrim as I intend, the MCM and Skyrim in-game settings should be
 * Master of Disguise
   - Advanced
     - Factions Update Auto Run: Disabled
-
-* Nether's Follower Framework
-  - Activity
-    - Sandboxing
-      - Only Sandbox in Towns: Enabled
-    - Mounts
-      - Mount Support: Riding Support Only
-  - **Important!: DO NOT import Lucien or Inigo into NFF. It will completely break them. Sofia, Auri, and 3DNPCs will automatically import a short time after meeting them and asking them to follow you.**
 
 * OBIS
   - Settings
