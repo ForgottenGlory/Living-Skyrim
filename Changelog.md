@@ -417,3 +417,13 @@
 #### Incremental
 * **Mod Updates**
   - Updated Wrye Bash to version 307 6.1.
+
+### 5/4/2020 1.7.0
+#### Minor
+* **Fixes**
+  - Fixed some water seams.
+  - Fixed the Lucan and other vendor crashes.
+* **Additions**
+  - Added Immersive Needs.
+* **Removals**
+  - Removed iNeed.

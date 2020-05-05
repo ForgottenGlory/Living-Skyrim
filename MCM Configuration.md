@@ -91,23 +91,6 @@ To play Living Skyrim as I intend, the MCM and Skyrim in-game settings should be
   - Options
     - Hide Shout Meter With Compass: Enabled
 
-* iNeed 
-  - Basics 
-    - Hunger/Thirst/Fatigue Rate: 3
-    - Eat hotkey: <
-    - Drink hotkey: >
-  - Advanced 
-    - Follower Needs: Disabled
-  - Difficulty
-    - Food Removal: Containers
-    - Food Spoilage: Words
-    - (Optional) Death: Enabled
-  - Notifications 
-    - Style: Alpha/Color based
-    - Current Needs: Both
-    - Perspective: 1st person
-    - Track Disease: Enabled
-
 * Lock Overhaul
   - General 
     - Activate Lock Overhaul

@@ -1,5 +1,5 @@
 # Living Skyrim
-Current version: 5/3/2020 1.6.10
+Current version: 5/3/2020 1.7.0
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -31,6 +31,7 @@ Current version: 5/3/2020 1.6.10
 	- [Classic Classes & Birthsigns](#classic-classes--birthsigns)
 	- [Enemy Releveler & Encounter Zones Unlocked](#enemy-releveler--encounter-zones-unlocked)
 	- [Gamepad++](#gamepad)
+	- [Immersive Needs](#immersive-needs)
 	- [Immersive Spell Learning](#immersive-spell-learning)
 	- [The HUD Mods](#the-hud-mods)
 	- [Nether's Follower Framework](#nethers-follower-framework)
@@ -183,6 +184,9 @@ What does this mean? Well, to put it simply, there are *a lot* of NPCs to find a
 
 ### Gamepad++
 [Gamepad++](https://www.nexusmods.com/skyrimspecialedition/mods/27007) is a mod specific to users who will be playing the game with a controller. Gamepad++ remaps a lot of the controller buttons to a new configuration and greatly expands the amount of actions you can perform with your controller. I highly recommend reading the mod description for this if you are going to be playing with a controller. Also be aware that by using Gamepad++, your keyboard with be completely useless while playing the game. Thankfully, Gamepad++ allows for over 100 custom shortcuts to be set by you, so anything you'd want to do on your keyboard can now be done on your controller.
+
+### Immersive Needs
+[Immersive Needs](https://www.nexusmods.com/skyrimspecialedition/mods/29317) is a lightweight, concientious needs system that seeks to implement needs while being as unintrusive as possible. The beneficial effects of food and drink are not altered, and neither are diseases (though there are some nifty drunk effects from alcohol). You'll be expected to eat a balanced diet of meat and fruits and vegetables, while raw meat is harmful to consume. Any drink will allow you to satisfy your thirst needs. Sleep is handled on a set schedule: Every 16 hours you become tired. This should allow you plenty of time to go exploring and then return to a bed. Vampires only require sleep. **This mod cannot be disabled, it has no MCM.** However, with how lightweight the mod is, you should be able to satisfy your needs even without keeping a close eye on them. The beneficial effects of food and drink are kept, so you'll be stocked up on them and using them frequently anyway.
 
 ### Immersive Spell Learning
 [Immersive Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/33375) completely changes how your character learns new spells. Instead of "eating" the book and learning the spell, you now have to spend time studying notes about the spell to learn it over time. The amount of time it takes to learn new spells is completely configurable through this mod's MCM menu, so feel free to tweak it to your liking. This mod's inclusion is intended to help balance magic as the combination of magic mods included in Living Skyrim make magic *significantly* stronger.
