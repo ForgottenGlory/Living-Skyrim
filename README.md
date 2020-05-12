@@ -1,5 +1,5 @@
 # Living Skyrim
-Current version: 5/3/2020 1.7.0
+Current version: 5/10/2020 1.7.1
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
