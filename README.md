@@ -55,7 +55,7 @@ Lastly, Living Skyrim exists solely as a Wabbajack installer. A manual installat
 ### Warnings/Disclaimers
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a thousand clicks or so).  
 
-As of v1.6.0, the modlist requires ~127GB (42.5GB Downloads/85GB Mods) of hard drive space on top of the ~10GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a couple of hours.
+As of v1.7.0, the modlist requires ~127GB (42.5GB Downloads/85GB Mods) of hard drive space on top of the ~10GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a couple of hours.
 
 **NSFW Warning:** By default this modlist contains nude models for female NPCs. See the FAQ for more information about changing the list to NeverNude if that interests you.  
 
