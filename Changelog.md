@@ -427,3 +427,8 @@
   - Added Immersive Needs.
 * **Removals**
   - Removed iNeed.
+
+### 5/13/2020 1.7.2
+#### Incremental
+* **Mod Updates**
+  - Updated MLU + CRF Patch.
