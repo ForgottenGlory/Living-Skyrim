@@ -176,4 +176,19 @@ To play Living Skyrim as I intend, the MCM and Skyrim in-game settings should be
     - Dagger Style Player & NPC: Dagger on Back Hip (both left and right)
     - Quiver Player & NPC: Frostfall Quiver
 
+* iEquip
+* **Important!: iEquip CANNOT be configured until after you have selected your Alternate Start and loaded into the gameworld proper. It will not allow you to do so until after you've loaded into your starting area.**
+* General settings
+  * iEquip On: Enabled
+  * Now exit the menu and wait for the widget to appear.
+
+You can configure iEquip how you want, but I recommend the following.
+* Queue Options
+  * Item caching and blacklisting
+    * Blacklist Manually Removed Items: Enabled
+  * Misc UI Options
+    * Enable Widget Fadeout: Enabled
+    * Fadeout Delay: 10
+    * Fadeout Speed: Fast
+
 **Save your game after completing MCM setup, I promise you do not want to have to do this process more than once.**

@@ -437,3 +437,12 @@
 #### Incremental
 * **Mod Updates**
   - Updated MLU + Summermyst Patch.
+
+### 5/19/2020 1.8.0
+#### Minor
+* **Additions**
+  * Added iEquip.
+  * Added Quick Loot RE.
+* **Mod Updates**
+  - Updated Morrowloot Ultimate to v1.4
+  - Updated MLU - Immersive Armors Patch 
